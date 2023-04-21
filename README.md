@@ -28,6 +28,9 @@ public class Boa{
 }
 ```
 
+![image](https://user-images.githubusercontent.com/118440195/233592060-1d4b3170-3461-4d46-ba9d-a65d8929c26c.png)
+
+
 ### Writing BoaTest in java.
 ```
 import org.junit.Before;
@@ -58,6 +61,10 @@ public class BoaTest {
 	}
 }
 ```
+![image](https://user-images.githubusercontent.com/118440195/233595568-84c21773-d275-4812-80e8-b5daa46a8ab5.png)
+
+![image](https://user-images.githubusercontent.com/118440195/233594653-13991162-e682-4860-aad2-f9d339d9d6f1.png)
+
 
 ### Now adding new Function.
 ```
@@ -126,6 +133,11 @@ public class BoaTest {
 	}
 }
 ```
+
+![image](https://user-images.githubusercontent.com/118440195/233595104-c104d935-3b6b-48ca-b63e-1fdc45737915.png)
+
+![image](https://user-images.githubusercontent.com/118440195/233595338-bb8551fe-aebf-4fcd-8820-066647728e8f.png)
+
 
 
 
